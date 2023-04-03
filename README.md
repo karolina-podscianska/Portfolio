@@ -15,7 +15,6 @@
 ## Test cases
 
 - [eu.jotform.com - Product Order Form](https://docs.google.com/spreadsheets/d/1IkUOsha2gC_MeF1sC717rGuFovsO-wiXEhseFpDZ40Q/edit?usp=sharing) 
-  * Form created for training with test cases
 
 
 ## CV
@@ -31,10 +30,8 @@ Also I invite you to visit [my Linkedin](https://www.linkedin.com/in/karolina-po
   * [W3Schools](https://www.w3profile.com/Senapi) SQL fundamentals course
   * ['Manual software testing fundamentals'](https://www.udemy.com/share/102V243@kk7Z0ILdVHGS1lSnTBjXo9X46veovohE8E2xkH0V8_w6KoIY4nLdvrh_snMt9wFa/) - Udemy course (in Polish) 
   * ['RESTful API Testing with Postman'](https://www.udemy.com/course/restful-api-testing-with-postman/) - Udemy course 
-  * ['Certified Tester ISTQB Foundation Level' - Adam Roman Lucjan Stap](https://lubimyczytac.pl/ksiazka/4943677/certyfikowany-tester-istqb-poziom-podstawowy) - Book
   * [academybugs](academybugs.com)
   * ["JIRA WORK MANAGEMENT TUTORIAL - Complete Jira Work Management Course"](https://www.youtube.com/playlist?list=PLuAoMvvRllpS2CuKjkyFLO0RkBKMlPrbo) - YouTube course
-  * Game Jams participant as a manual games tester and 2D/3D graphic designer
 
 
 ## Skills
@@ -48,3 +45,13 @@ Also I invite you to visit [my Linkedin](https://www.linkedin.com/in/karolina-po
   * Notion
   * SourceTree
   * Chrome Dev Tools
+
+
+## Books
+  * ['Certified Tester ISTQB Foundation Level' - Adam Roman Lucjan Stap](https://lubimyczytac.pl/ksiazka/4943677/certyfikowany-tester-istqb-poziom-podstawowy)
+  * [ISTQB syllabus](https://sjsi.org/ist-qb/do-pobrania/)
+
+
+## Conferences
+  * [Warszawskie Dni Informatyki](https://warszawskiedniinformatyki.pl/)
+  * [Targi Pracy IT online](https://targipracyit.pl/online/)
