@@ -49,7 +49,7 @@ Also I invite you to visit [my Linkedin](https://www.linkedin.com/in/karolina-po
 
 ## Books
   * ['Certified Tester ISTQB Foundation Level' - Adam Roman Lucjan Stap](https://lubimyczytac.pl/ksiazka/4943677/certyfikowany-tester-istqb-poziom-podstawowy)
-  * [ISTQB syllabus](https://sjsi.org/ist-qb/do-pobrania/)
+  * [ISTQB syllabus - foundation level](https://sjsi.org/ist-qb/do-pobrania/)
 
 
 ## Conferences
