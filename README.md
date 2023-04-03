@@ -1,24 +1,33 @@
 # Portfolio
-- [My tests examples](#My-tests-examples)
+- [Bug reports](#bug-reports)
+- [Test cases](#test-cases)
 - [CV](#cv)
 - [Courses](#Courses-in-progress)
 - [Skills](#skills)
 
 
-## My tests examples
+## Bug reports
+
+- [Bug report for nasypko.pl](https://docs.google.com/document/d/11wnRH8AokiKvYMrmr1BQGNXdEn6qD0L_06rc_ovXZwg/edit?usp=sharing) 
+- [Bug report for spizarniagryzonia.pl](https://docs.google.com/document/d/1fFuLXhgbWzb_jcmIm0XIlP1ZGtfu1tGS8FrPFvRO3Ok/edit?usp=sharing) 
+
+
+## Test cases
+
+- [eu.jotform.com - Product Order Form](https://docs.google.com/spreadsheets/d/1IkUOsha2gC_MeF1sC717rGuFovsO-wiXEhseFpDZ40Q/edit?usp=sharing) 
+  * Form created for training with test cases
 
 
 ## CV
 
 You can download [my CV](https://drive.google.com/file/d/1JQ2b5DfumxKOj5V35Z23f6KOUASDStQc/view?usp=sharing).
+Also I invite you to visit [my Linkedin](https://www.linkedin.com/in/karolina-pod%C5%9Bcia%C5%84ska-173318170/)
 
 
 ## Courses in progress
 
   * [uTest.com](https://www.utest.com/profile/Senapi/about) - uTest Academy
-  * [test.io](https://tester.test.io/profile_pages/karolina-podscianska) 
-        * Bug Reproductions course
-        * Exploratory Testing Course
+  * [test.io](https://tester.test.io/profile_pages/karolina-podscianska) - 'Bug Reproductions course' - 'Exploratory Testing Course'
   * [W3Schools](https://www.w3profile.com/Senapi) SQL fundamentals course
   * ['Manual software testing fundamentals'](https://www.udemy.com/share/102V243@kk7Z0ILdVHGS1lSnTBjXo9X46veovohE8E2xkH0V8_w6KoIY4nLdvrh_snMt9wFa/) - Udemy course (in Polish) 
   * ['RESTful API Testing with Postman'](https://www.udemy.com/course/restful-api-testing-with-postman/) - Udemy course 
@@ -36,4 +45,6 @@ You can download [my CV](https://drive.google.com/file/d/1JQ2b5DfumxKOj5V35Z23f6
   * Browser Stack
   * ScribeHow
   * Trello
+  * Notion
   * SourceTree
+  * Chrome Dev Tools
