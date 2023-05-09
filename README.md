@@ -19,7 +19,7 @@
 
 ## CV
 
-You can download [my CV](https://drive.google.com/file/d/1JQ2b5DfumxKOj5V35Z23f6KOUASDStQc/view?usp=sharing).
+You can download [my CV](https://drive.google.com/file/d/1gV7r-RqDenh6pxkcS7n-6fjWFME7NqpD/view?usp=sharing).
 Also I invite you to visit [my Linkedin](https://www.linkedin.com/in/karolina-pod%C5%9Bcia%C5%84ska-173318170/)
 
 
