@@ -40,7 +40,9 @@
   * 2023 March - now
     utest.com & test.io 
   * 2018 August - 2020 February
-    Game Jams - indie projects
+   -Game Jams - indie projects
+
+
 
 ## Courses
 
