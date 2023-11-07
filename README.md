@@ -35,12 +35,9 @@
 
 ## Experience
 
-  * 2023 June - now
-    Manual Tester - Bank Millennium
-  * 2023 March - now
-    utest.com & test.io 
-  * 2018 August - 2020 February
-   -Game Jams - indie projects
+  * 2023 June - now | Manual Tester - Bank Millennium
+  * 2023 March - now | utest.com & test.io 
+  * 2018 August - 2020 February | Game Jams - indie projects
 
 
 
