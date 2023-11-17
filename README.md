@@ -84,5 +84,6 @@ Also I invite you to visit [my Linkedin](https://www.linkedin.com/in/karolina-po
 
 
 ## Conferences
-  * [Warszawskie Dni Informatyki](https://warszawskiedniinformatyki.pl/)
-  * [Targi Pracy IT online](https://targipracyit.pl/online/)
+  * [Warszawskie Dni Informatyki - 31.03–01.04.2023](https://warszawskiedniinformatyki.pl/)
+  * [Targi Pracy IT online - 17.03.2023](https://targipracyit.pl/online/)
+  * [Targi Pracy IT online - 17.11.2023](https://targipracyit.pl/online/)
